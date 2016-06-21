@@ -1,0 +1,27 @@
+{
+  "name": "fix-moduleid-and-chunkid-plugin",
+  "version": "0.1.0",
+  "description": "Make module id and chunk id fixed and changeless when add or remove modules",
+  "main": "lib/FixModuleIdAndChunkIdPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Simon Wood"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfansimon/fix-moduleid-and-chunkid-plugin.git"
+  },
+  "homepage": "https://github.com/cfansimon/fix-moduleid-and-chunkid-plugin#readme",
+  "devDependencies": {},
+  "keywords": [
+    "webpack",
+    "moduleid",
+    "chunkid",
+    "fixed"
+  ]
+}
